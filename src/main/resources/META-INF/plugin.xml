@@ -1,5 +1,5 @@
 <idea-plugin>
-<id>com.github.reenigneca.genprotobuf</id>
+<id>com.protobuf.free.gen.plugin.GenProtobuf</id>
 <name>GenProtobuf</name>
 <version>2.0.2</version>
 <vendor url="https://github.com/ReenigneCA/GenProtobuf">ReenigneCA</vendor>
