@@ -1,7 +1,7 @@
 <idea-plugin>
 <id>com.github.reenigneca.genprotobuf</id>
 <name>GenProtobuf</name>
-<version>2.0.1</version>
+<version>2.0.2</version>
 <vendor url="https://github.com/ReenigneCA/GenProtobuf">ReenigneCA</vendor>
 
 
@@ -45,7 +45,8 @@
       <li>version 1.4 - Altered the way output is displayed slightly to remove use of deprecated APIs.</li>
       <li>version 1.5 - Added support for custom languages that require plugins (like Go and Dart)</li>
       <li>version 2.0 - updated use of deprecated interface. Restarting compatibility with 2022.2.1 use 1.5.1 with older versions it is identical in functionality.</li>
-      <li>version 2.0.1 - updated plugin.xml to support versions newer than 222.*</li></ul>
+      <li>version 2.0.1 - updated plugin.xml to support versions newer than 222.*</li>
+      <li>version 2.0.2 - updated metadata</ul>
     ]]>
 </change-notes>
 
