@@ -1,4 +1,7 @@
 # GenProtobuf
+
+[GenProtobuf on Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/11423-genprotobuf/edit)
+
 The GenProtobuf plugin for intellij IDEs
 
 I built this plugin to simplify protobuf compilation for Computer Engineering students I was teaching at the time. It adds convenient right click menus to compile protobuf files within Intellij IDEs. It has since been updated to support newer Intellij IDE versions and allow for use with languages that are supported by plugins.
