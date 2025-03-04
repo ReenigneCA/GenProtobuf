@@ -29,7 +29,7 @@ public class GenAllProtobufs extends AnAction {
             return;
         }
 
-        ProjectFileIndex.SERVICE.getInstance(project).iterateContent(new ContentIterator() {
+        ProjectFileIndex.getInstance(project).iterateContent(new ContentIterator() {
             @Override
             public boolean processFile(@NotNull VirtualFile virtualFile) {
                 String fileName = virtualFile.getName();
